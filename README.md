@@ -1,5 +1,5 @@
 # vpn-over-ssh
-Poor mans VPN over SSH, script which can help to setup VPN based on **OpenSSH version 4.3+**, creates a ssh tunnel to **connect two networks, require root, works with Linux**.
+Poor mans VPN over SSH, script which can help to setup VPN based on **OpenSSH version 4.3+**, creates a ssh tunnel to **connect two networks, require root, works with Linux,MAC & WIndows**.
 
 # Prerequisites
 
